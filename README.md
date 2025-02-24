@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 📫 How to reach me: 
+
 <a href="mailto:mail@nikitakiselev.ru"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nikita-kiselev-dev"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 **About**
 Experienced Backend PHP Developer with 8+ years in e-commerce and healthcare software development. Expert in designing and implementing scalable web solutions, optimizing database performance, and leading development teams.
 
-⚙️ Technical Expertise: Scalable web solutions, database performance optimization, microservices, CI/CD, Infrastructure as Code.
-🎯 Team & Leadership: 2+ years of team-leading experience, hiring, and mentoring junior developers. 
-🔍 Beyond PHP: Integrated AI/ML features, optimized cloud expenses, and contributed to architecture improvements. 
-📚 Personal Projects: Passionate about Arduino and maintaining a technical blog.
+⚙️ **Technical Expertise:**  Scalable web solutions, database performance optimization, microservices, CI/CD, Infrastructure as Code.<br/>
+🎯 **Team & Leadership:**    2+ years of team-leading experience, hiring, and mentoring junior developers.<br/>
+🔍 **Beyond PHP:**           Integrated AI/ML features, optimized cloud expenses, and contributed to architecture improvements. <br/>
+📚 **Personal Projects:**    Passionate about Arduino and maintaining a technical blog.
 
 **Tags Cloud**
 
