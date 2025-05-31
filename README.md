@@ -10,6 +10,9 @@ Experienced Backend PHP Developer with 8+ years in e-commerce and healthcare sof
 🔍 **Beyond PHP:**           Integrated AI/ML features, optimized cloud expenses, and contributed to architecture improvements. <br/>
 📚 **Personal Projects:**    Passionate about Arduino and maintaining a technical blog.
 
+**Skills***
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,rabbitmq,bigquery,spanner,airflow,ansible,apache,api,arduino,axios,bash,beam,bootstrap,bulma,chatgpt,chromedevtools,circleci,claude,cloudflare,codeigniter,codepen,composer,css,cursor,dbeaver,deepseek,docker,elasticsearch,gcp,gemini,git,gittea,github,gitlab,grafana,graphql,html,hugo,json,jwt,kubernetes,linux,markdown,nginx,npm,phpstan,phpstorm,pinia,platformio,playwright,postgresql,rabbitmq,raspberrypi,redis,s3,sass,selenium,sentry,slack,sqlite,sublime,terminal,terraform,ubuntu,uml,vagrant,vim,virtualbox,vite,vuejs,webpack,websocket,yaml,yarn,yii,)
+
 **Tags Cloud**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
