@@ -11,6 +11,7 @@ Experienced Backend PHP Developer with 8+ years in e-commerce and healthcare sof
 📚 **Personal Projects:**    Passionate about Arduino and maintaining a technical blog.
 
 **Skills***
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,mysql,rabbitmq,bigquery,airflow,ansible,apache,api,arduino,axios,bash,beam,bootstrap,bulma,chatgpt,chromedevtools,circleci,claude,cloudflare,codeigniter,codepen,composer,css,cursor,dbeaver,deepseek,docker,elasticsearch,gcp,gemini,git,gitea,github,gitlab,grafana,graphql,html,hugo,json,jwt,kubernetes,linux,markdown,nginx,npm,phpstan,phpstorm,pinia,platformio,playwright,postgresql,rabbitmq,raspberrypi,redis,s3,sass,selenium,sentry,slack,sqlite,sublime,terminal,terraform,ubuntu,uml,vagrant,vim,virtualbox,vite,vuejs,webpack,websocket,yaml,yarn,yii,)
 
 **Tags Cloud**
